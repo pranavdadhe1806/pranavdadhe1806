@@ -30,13 +30,11 @@
 │  > 3rd yr CSE @ Pune  |  he/him                             │
 │  > Building: StrataNodex — a TUI-first productivity system  │
 │  > Stack: TypeScript · Go · Node.js · PostgreSQL · C        │
-│  > Target: Remote backend internship @ €1K+/month           │
+│  > Target: Remote backend internship                         │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-pranavdadhe.dev-00ff88?style=for-the-badge&logo=firefox&logoColor=black)](https://pranavdadhe.dev)
-[![Email](https://img.shields.io/badge/Email-pranavdadhe1806%40gmail.com-00ff88?style=for-the-badge&logo=gmail&logoColor=black)](mailto:pranavdadhe1806@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00ff88?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/pranavdadhe)
+[![](https://img.shields.io/badge/--00ff88?style=for-the-badge&logo=gitlab&logoColor=black)](https://gitlab.com/pranavdadhe1806) [![](https://img.shields.io/badge/--0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavdadhe1806) [![](https://img.shields.io/badge/--00ff88?style=for-the-badge&logo=x&logoColor=black)](https://x.com/CoderOnThePitch) [![](https://img.shields.io/badge/--00ff88?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/coderonthepitch) [![](https://img.shields.io/badge/--00ff88?style=for-the-badge&logo=firefox&logoColor=black)](https://pranavdadhe.dev) [![](https://img.shields.io/badge/--00ff88?style=for-the-badge&logo=gmail&logoColor=black)](mailto:pranavdadhe1806@gmail.com)
 
 </div>
 
@@ -132,7 +130,7 @@
 [2026-06]  learning Go           # building backend intuition
 [2026-06]  shipping StrataNodex  # flagship project, live
 [2026-06]  reading: Grokking System Design
-[2026-06]  target: remote backend internship, €1000+/month
+[2026-06]  target: remote backend internship
 ```
 
 ---
