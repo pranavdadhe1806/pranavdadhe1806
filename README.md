@@ -85,7 +85,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pranavdadhe1806&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&currStreakNum=ffffff&sideNums=ffffff&dates=888888&stroke=1a1a2e)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pranavdadhe1806&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&currStreakNum=ffffff&sideNums=ffffff&dates=888888&stroke=1a1a2e&v=1)](https://git.io/streak-stats)
 
 </div>
 
