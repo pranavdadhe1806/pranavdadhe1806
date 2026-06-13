@@ -102,7 +102,7 @@
 
 <div align="center">
 
-[![Pranav's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pranavdadhe1806&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88)](https://wakatime.com/@pranavdadhe1806)
+[![Pranav's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pranavdadhe1806&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88&v=1)](https://wakatime.com/@pranavdadhe1806)
 
 </div>
 
