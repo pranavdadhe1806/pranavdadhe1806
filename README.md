@@ -106,8 +106,6 @@
 
 </div>
 
-> ⚠️ _WakaTime requires the [WakaTime VS Code extension](https://wakatime.com/vs-code) to be active — set it up once and this card auto-populates._
-
 ---
 
 ## `$ cat ./currently.log`
