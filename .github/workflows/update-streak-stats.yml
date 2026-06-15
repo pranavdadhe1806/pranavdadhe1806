@@ -1,0 +1,27 @@
+name: Update Streak Stats
+
+on:
+  schedule:
+    - cron: '30 0 * * *'  # daily at 12:30 AM UTC (6 AM IST)
+  workflow_dispatch:        # allow manual trigger from GitHub Actions tab
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Download streak stats SVG
+        run: |
+          curl -s --retry 5 --retry-delay 10 --max-time 120 \
+            "https://streak-stats.demolab.com?user=pranavdadhe1806&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&currStreakNum=ffffff&sideNums=ffffff&dates=888888&stroke=1a1a2e" \
+            -o streak-stats.svg
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add streak-stats.svg
+          git diff --staged --quiet || git commit -m "chore: update streak stats [skip ci]"
+          git push
